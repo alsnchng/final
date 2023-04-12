@@ -1,0 +1,52 @@
+#container-1{
+    margin:auto;
+    width: 100%;
+    text-align: center;
+}
+#container-2{
+    margin:auto;
+    width: 100%;
+    text-align: right;
+}
+#container-3{
+    margin:auto;
+    width: 100%;
+    text-align: center;
+}
+
+
+#myCanvas{
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
+#canvasOne{
+    margin:auto;
+    width: 100%;
+    text-align: center;
+}
+
+button{
+    color: grey;
+    background-color: black;
+    margin: 20px;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 50px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: "Andale Mono", monospace;
+}
+button:hover{
+    color: white;
+    background-color: black;
+    margin: 20px;
+    padding: 10px 30px;
+    border-radius: 50px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: "Andale Mono", monospace;
+}
